@@ -41,7 +41,7 @@ void loop() {
     delay(3000);
   }
   else {
-    Serial.println(" Access denied");
+    Serial.println("Access denied");
     Serial.println();
     delay(3000);
   }
